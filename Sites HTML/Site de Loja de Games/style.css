@@ -1,0 +1,146 @@
+*{
+    font-size: 15px;
+   
+    box-sizing: border-box;
+}
+body{
+     margin: 0;
+    padding: 0;
+    background-color: rgb(201, 200, 198);
+}
+header {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+    text-align: center;
+    height: 150px;
+}
+
+main {
+    margin-top: -18px;
+    height: 60px;
+    background-color: #107C0F;
+}
+a{  color: yellow;
+    font-size: 25px;
+    margin-top: -100px;
+    margin-right: 20px;
+    padding: 5px;
+}
+.navs{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo img{
+    margin-bottom: 10px;
+    display: flex;
+    height: 190px;
+    width: 185px;
+}
+main h1 {
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Card img {
+    margin-left: 65px;
+    height: 200px;
+}
+.destaq{
+    color: rgb(15, 134, 4);
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.destaqP{
+    color: #00439C;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.preco{
+    color: red;
+    font-size: 20px;
+    font-style:normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.precor{
+    color: red;
+    font-size: 20px;
+    font-style:normal;
+    text-decoration: line-through;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Card {
+    margin-left: 50px;
+    border-radius: 10px;
+    border: 2px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+}
+.Cardp {
+    margin-left: 50px;
+    border-radius: 10px;
+    border: 2px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 150px;
+}
+.Cardp img {
+    margin-left: 65px;
+    height: 200px;
+}
+.Cardpy {
+    border-radius: 10px;
+    border: 2px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 200px;
+}
+.Cardpy img {
+    margin-left: 6px;
+    height: 200px;
+}
+#ps4{
+    margin-top: 30px;
+}
+h1  {
+    font-size: 50px;
+    text-align: center;
+    color: black
+}
+button{
+    background-color: orange;
+    color: black;
+    border-radius: 5px;
+    width: auto;
+    height: 30px;
+}
+footer{
+    background-color: gray;
+    margin-top: 15px;
+    text-align: center;
+}
+.botao:hover {
+    background-color: yellow
+}
+h1.tit{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#ps{
+    background-color: #00439C;
+}
+#toq{
+    margin-left: 100px;
+    height: auto;
+    width: 650px;
+}
